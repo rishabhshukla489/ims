@@ -1,0 +1,41 @@
+.container {  
+  max-width: 1350px;  
+  width: 100%;  
+  margin: 50px;  
+  height: auto;  
+  display: block;  
+}  
+  
+body {   color: #000;  
+  font-size: 20px;  
+  font-family: 'Gilroy-Bold', sans-serif;
+font-family: 'Gilroy-Heavy', sans-serif;
+font-family: 'Gilroy-Light', sans-serif;
+font-family: 'Gilroy-Medium', sans-serif;
+font-family: 'Gilroy-Regular', sans-serif;  
+background-color: #e5e5f7;
+opacity: 0.8;
+background-color: #e5e5f7;
+opacity: 1;
+background-image: radial-gradient(#000cea 0.2px, #e5e5f7 0.2px);
+background-size: 4px 4px;
+/*background-color: #E2FDFF; */ 
+}  
+  
+h2 {  
+  text-align: center;  
+}  
+  
+.form_group {  
+  padding: 10px;  
+  ;    
+display: block;  
+}  
+  
+label {  
+  float: left;  
+  padding-right: 50px;  
+  line-height: 10%;  
+  display: block;  
+  width: 208px;  
+}   
